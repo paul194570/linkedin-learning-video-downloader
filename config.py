@@ -1,11 +1,11 @@
 import os
 
 # EDIT
-USERNAME = 'temp@abc.com'
-PASSWORD = 'JatinPatel'
+USERNAME = 'jatin@teenenggr.com'
+PASSWORD = 'IDontKnow'
 COURSES = [
-    'ios-development-security',
-    'learning-autodesk-inventor'
+    'additive-manufacturing-optimizing-3d-prints-2'
+
 ]
 
 COLLECTIONS = [
